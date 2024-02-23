@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity2">
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_margin="10dp"
+        android:layout_height="match_parent">
+
+        <TextView
+            android:id="@+id/textView2"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:text="
+
+
+
+Integer commodo lectus vel pharetra sollicitudin. Integer tempus mi in risus fermentum, viverra maximus ex fermentum. Sed magna urna, aliquam non nunc fringilla, vehicula mattis est. Aenean imperdiet, quam vitae condimentum maximus, purus lorem hendrerit mi, et suscipit orci dolor sit amet sem. Pellentesque elit est, mollis at odio in, lacinia pellentesque quam. Vestibulum vel lobortis orci. Cras purus sapien, semper sit amet pretium quis, mollis ac neque. In vestibulum varius luctus. Morbi eros libero, pharetra eget commodo eget, posuere vel erat. Nam vel dolor aliquet, commodo tellus quis, semper ipsum. Nulla convallis id sem non elementum. Nam finibus urna ac varius ultrices. Praesent quis magna sed justo viverra tempor.
+
+Sed nec dolor consequat, bibendum tellus eget, finibus neque. Aliquam erat volutpat. Donec malesuada mauris quis porta lobortis. Phasellus in finibus libero. Nunc eget urna et ante egestas blandit in eget metus. Phasellus nec placerat lacus, et consequat libero. Maecenas rhoncus urna sapien, ut elementum diam porttitor et. Suspendisse vehicula et erat quis placerat. Vivamus at tempus ante. Fusce consequat fringilla lorem nec gravida. Phasellus tortor turpis, rhoncus in placerat volutpat, fringilla sit amet nisl. Etiam venenatis sodales nulla, sed euismod dui fermentum id. Interdum et malesuada fames ac ante ipsum primis in faucibus. In venenatis, dui a placerat vehicula, ipsum justo placerat turpis, vitae sodales leo erat rutrum lectus.
+
+Sed porta augue sed felis ultricies, non semper est consequat. Sed quis luctus lectus. Phasellus id ullamcorper lorem. Sed vel laoreet metus. Etiam est quam, feugiat in hendrerit vitae, pharetra sit amet lacus. Quisque tempor porta eros, eget scelerisque nulla maximus in. Aenean mollis ipsum orci, ut pretium nunc sodales a. Curabitur augue nunc, vulputate sed justo ac, vehicula malesuada ex. In hac habitasse platea dictumst. Nulla facilisi. Duis vehicula turpis a dui sodales ultricies eu sit amet lectus. Nulla et ex arcu. Sed commodo sem sapien, sit amet dignissim nisl vehicula ac. Morbi molestie elementum orci sed mollis.
+
+Donec lobortis quam ut interdum volutpat. Donec sed rhoncus ex. Nullam aliquet tortor eu libero iaculis, quis sagittis risus tincidunt. Duis eleifend ligula ullamcorper, malesuada metus quis, iaculis magna. Maecenas non enim urna. Phasellus pharetra pretium ante in bibendum. In sagittis mi libero, nec bibendum est fringilla id.
+
+In eu dui dictum, facilisis lacus eget, ornare erat. Donec egestas pharetra nisl, et venenatis magna. Duis vulputate ipsum odio, sed feugiat massa elementum blandit. Fusce rhoncus at diam sit amet bibendum. Vestibulum commodo dolor purus, a commodo orci accumsan in. Phasellus faucibus, risus in egestas imperdiet, leo enim dignissim felis, in suscipit dolor elit quis libero. Quisque rhoncus fringilla nibh sed placerat. Mauris euismod est eget imperdiet placerat. Cras quis iaculis orci. Nunc eget accumsan tortor. Ut bibendum vel metus nec eleifend. Morbi congue ante a dui euismod, vitae interdum elit eleifend. Maecenas vitae mauris in metus blandit faucibus. Quisque efficitur urna vel felis consequat, dictum viverra sapien suscipit. Duis ligula velit, rutrum at suscipit nec, rhoncus sed felis. Phasellus fermentum tristique purus, vitae porta ipsum. Phasellus pulvinar accumsan mollis. Mauris non. "
+
+            android:textSize="20dp"
+            tools:layout_editor_absoluteX="98dp"
+            tools:layout_editor_absoluteY="94dp" />
+
+
+
+
+    </ScrollView>
+</LinearLayout>
